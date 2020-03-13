@@ -90,7 +90,7 @@ class Recipe extends React.Component {
             </div>
           </div>
           <Link to="/recipes" className="btn btn-link">
-            Back to recipes
+            Back to all recipes
           </Link>
         </div>
       </div>
